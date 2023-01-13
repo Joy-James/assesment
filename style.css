@@ -1,0 +1,18 @@
+.item{
+    background-color: rgb(214, 162, 162);
+    text-align: center;
+    border: rgb(16, 16, 82): hsl(226, 43%, 10%) solid 30px;
+    border-radius: 10px;
+    height: 500px;
+    flex-grow: 1; 
+    display: grid;
+    gap: 10px;
+}
+.container{
+    border: black solid 2px;
+    width:500 ;
+    height:400 ;
+    border-radius:10px ;
+    gap: 20px;
+
+}
